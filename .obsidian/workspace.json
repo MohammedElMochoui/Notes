@@ -102,9 +102,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "84c81cc87eaafbde",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.5 Inheritance vs Composition.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -170,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS61A/4. Data Processing/4.2 Iterators.md",
+                "file": "2.5 Inheritance vs Composition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS61A/4. Data Processing/4.2 Iterators.md",
+                "file": "2.5 Inheritance vs Composition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS61A/4. Data Processing/4.2 Iterators.md"
+                "file": "2.5 Inheritance vs Composition.md"
               }
             }
           }
@@ -231,10 +243,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e2cb4e5ab3f88775",
+  "active": "84c81cc87eaafbde",
   "lastOpenFiles": [
-    "CS61A/Images/Pasted image 20230331005716.png",
     "CS61A/4. Data Processing/4.2 Iterators.md",
+    "2.5 Inheritance vs Composition.md",
+    "CS61A/Images/Pasted image 20230331005716.png",
     "CS61A/Images",
     "CS61A/Index.md",
     "CS61A/2. Building Abstractions with Data/2.4 Mutable functions.md",
